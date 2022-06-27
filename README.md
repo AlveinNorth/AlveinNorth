@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlveinNorth
+- 👋 Hi, I’m MOHAMMAD
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++ 
 
